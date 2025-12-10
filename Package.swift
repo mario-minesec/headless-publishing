@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "Headless",
     platforms: [
-        .iOS(.v18.2)
+        .iOS(.v16)
     ],
     products: [
         .library(
